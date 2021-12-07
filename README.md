@@ -1,6 +1,11 @@
-- 👋 Hi, I’m @GravesChou
-- 👀 I’m interested in Everything?
+# 👋 Hi, I’m @GravesChou
+
+Welcome to My Github profile!
+
+- 👀 I am interested in Everything?
+- 📝 I used Tiddlywiki and (StackEdit.io).
 - 🌱 I’m currently learning Python etc.
+- 📰 I'm fighting with social media anxiety.
 
 
 <!---
