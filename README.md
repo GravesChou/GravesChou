@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @GravesChou
 - 👀 I’m interested in Everything?
 - 🌱 I’m currently learning Python etc.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 GravesChou/GravesChou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
