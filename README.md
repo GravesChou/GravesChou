@@ -1,11 +1,11 @@
 # 👋 Hi, I’m @GravesChou
 
 Welcome to My Github profile!
-
+- 👦 I am a newbie.
 - 👀 I am interested in Everything?
 - 📝 I used [Tiddlywiki](https://tiddlywiki.com/) and [StackEdit](https://stackedit.io/).
-- 🌱 I’m currently learning Python etc.
-- 📰 I'm fighting with social media anxiety.
+- 🌱 I am currently learning Python etc.
+- 📰 I am fighting with social media anxiety.
 
 
 <!---
